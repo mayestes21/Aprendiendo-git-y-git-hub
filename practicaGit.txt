@@ -1,1 +1,2 @@
-Este archivo es practica de una clase de platzi git y git hub.
+Este archivo es practica de una clase de platzi git y git hub. 
+de Ismael

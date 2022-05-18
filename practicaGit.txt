@@ -1,2 +1,6 @@
 Este archivo es practica de una clase de platzi git y git hub. 
 de Ismael
+
+esta linea es una modificacion.
+esta t
+tambien
